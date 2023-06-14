@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstverst/static/css/main.4b70186f.css",
+    "main.js": "/firstverst/static/js/main.e3632ed4.js",
+    "index.html": "/firstverst/index.html",
+    "main.4b70186f.css.map": "/firstverst/static/css/main.4b70186f.css.map",
+    "main.e3632ed4.js.map": "/firstverst/static/js/main.e3632ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b70186f.css",
+    "static/js/main.e3632ed4.js"
+  ]
+}
